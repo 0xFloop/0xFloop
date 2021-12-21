@@ -11,6 +11,8 @@ Prior to now I have worked mostly as an NFT project dev building metadata apis, 
 I am always open to new projects and love learning so feel free to contact me :)
 
 You can reach me on either twitter at https://www.twitter.com/0xfloop or through email at floopcrypto@yahoo.com
+
+
 <img width="968" alt="smileBanner" src="https://user-images.githubusercontent.com/95703085/146886757-c81fca85-6abb-457d-8a04-37a5123b1392.png">
 
 
